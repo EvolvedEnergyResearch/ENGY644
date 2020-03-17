@@ -1,0 +1,354 @@
+county & state,2015 Capacity Onshore Wind (GW)
+"anchorage, alaska",18
+"denali, alaska",24.6
+"kodiak island, alaska",9
+"nome, alaska",1.8
+"northwest arctic, alaska",4.7
+"southeast fairbanks, alaska",1.9
+"cochise, arizona",30
+"coconino, arizona",99.2
+"mohave, arizona",10
+"navajo, arizona",128.1
+"alameda, california",412.6
+"contra costa, california",116.2
+"imperial, california",265.4
+"kern, california",3317.7
+"merced, california",17
+"monterey, california",2
+"riverside, california",778.7
+"san bernardino, california",7.2
+"san diego, california",51
+"san joaquin, california",24.9
+"shasta, california",101.2
+"solano, california",1029.2
+"tehama, california",1
+"yolo, california",1
+"bent, colorado",75
+"huerfano, colorado",19
+"jefferson, colorado",8.8
+"kit carson, colorado",51
+"lincoln, colorado",843.6
+"logan, colorado",818.1
+"prowers, colorado",167.5
+"pueblo, colorado",1.8
+"weld, colorado",559.1
+"sussex, delaware",2
+"hawaii, hawaii",43
+"honolulu, hawaii",99
+"maui, hawaii",75
+"adair, iowa",287
+"bremer, iowa",38.7
+"buena vista, iowa",365.1
+"carroll, iowa",269
+"cass, iowa",445.5
+"cedar, iowa",4.5
+"cerro gordo, iowa",42
+"crawford, iowa",100
+"delaware, iowa",40.8
+"dickinson, iowa",154
+"emmet, iowa",1
+"floyd, iowa",75
+"franklin, iowa",298.7
+"greene, iowa",72.7
+"grundy, iowa",140.8
+"guthrie, iowa",200
+"hamilton, iowa",200
+"hancock, iowa",448
+"hardin, iowa",150
+"henry, iowa",1.5
+"howard, iowa",29
+"kossuth, iowa",12.8
+"linn, iowa",0.7
+"madison, iowa",119.6
+"marshall, iowa",269.8
+"mitchell, iowa",302
+"o'brien, iowa",15.5
+"osceola, iowa",155.4
+"palo alto, iowa",21
+"pocahontas, iowa",366.4
+"pottawattamie, iowa",153
+"story, iowa",151.5
+"tama, iowa",1.5
+"webster, iowa",251
+"winnebago, iowa",86
+"winneshiek, iowa",1.6
+"worth, iowa",326.6
+"bonneville, idaho",362.4
+"cassia, idaho",45
+"elmore, idaho",224.9
+"gooding, idaho",27.3
+"power, idaho",124.2
+"twin falls, idaho",178.9
+"brown, illinois",1.5
+"bureau, illinois",373.4
+"dekalb, illinois",217.5
+"henry, illinois",284
+"iroquois, illinois",300.8
+"lasalle, illinois",210
+"lee, illinois",244.9
+"livingston, illinois",602
+"mclean, illinois",547.7
+"pike, illinois",1.7
+"stark, illinois",150
+"stephenson, illinois",100.5
+"tazewell, illinois",100.5
+"vermilion, illinois",298
+"woodford, illinois",192.3
+"benton, indiana",836.8
+"randolph, indiana",202
+"tippecanoe, indiana",20
+"tipton, indiana",200
+"white, indiana",500.9
+"barber, kansas",100
+"butler, kansas",150
+"cloud, kansas",201
+"elk, kansas",200
+"ellis, kansas",201.7
+"ellsworth, kansas",201
+"ford, kansas",424.4
+"gray, kansas",507.5
+"harper, kansas",470.4
+"haskell, kansas",249.8
+"kiowa, kansas",116.5
+"lincoln, kansas",249.3
+"pottawatomie, kansas",1.6
+"wichita, kansas",99
+"barnstable, massachusetts",11.2
+"berkshire, massachusetts",43.5
+"bristol, massachusetts",5
+"essex, massachusetts",3.6
+"plymouth, massachusetts",6.8
+"suffolk, massachusetts",2.7
+"worcester, massachusetts",10.1
+"garrett, maryland",160
+"aroostook, maine",42
+"franklin, maine",132
+"hancock, maine",34.5
+"knox, maine",4.5
+"oxford, maine",70.6
+"penobscot, maine",60
+"waldo, maine",4.5
+"washington, maine",82.5
+"cheboygan, michigan",1.8
+"delta, michigan",28
+"gratiot, michigan",344.4
+"huron, michigan",540.8
+"mason, michigan",22
+"missaukee, michigan",59
+"sanilac, michigan",122
+"tuscola, michigan",242.1
+"clay, minnesota",53.3
+"cottonwood, minnesota",86.8
+"dakota, minnesota",2.5
+"dodge, minnesota",43
+"faribault, minnesota",38.6
+"freeborn, minnesota",201.3
+"grant, minnesota",20
+"jackson, minnesota",338.9
+"kandiyohi, minnesota",24
+"lincoln, minnesota",369.4
+"lyon, minnesota",18.9
+"martin, minnesota",256.6
+"meeker, minnesota",20
+"mower, minnesota",338.8
+"murray, minnesota",329.4
+"nobles, minnesota",73.1
+"pipestone, minnesota",273.3
+"redwood, minnesota",3.4
+"rice, minnesota",4.8
+"rock, minnesota",215.4
+"st louis, minnesota",25
+"steele, minnesota",44
+"stevens, minnesota",1
+"winona, minnesota",6.3
+"atchison, missouri",201.4
+"dekalb, missouri",150
+"gentry, missouri",56.7
+"nodaway, missouri",50.4
+"cascade, montana",9
+"fallon, montana",30
+"judith basin, montana",40
+"meagher, montana",9.6
+"teton, montana",10
+"toole, montana",388.8
+"wheatland, montana",149.3
+"barnes, north dakota",258.9
+"bowman, north dakota",19.5
+"burleigh, north dakota",201.4
+"cavalier, north dakota",240
+"dickey, north dakota",180
+"lamoure, north dakota",61.5
+"mchenry, north dakota",11.9
+"morton, north dakota",496.8
+"oliver, north dakota",98.6
+"pierce, north dakota",149
+"steele, north dakota",124
+"ward, north dakota",122.6
+"antelope, nebraska",206.5
+"boone, nebraska",120.4
+"brown, nebraska",59.4
+"cherry, nebraska",1.9
+"custer, nebraska",153
+"jefferson, nebraska",74.8
+"keya paha, nebraska",4.4
+"kimball, nebraska",10.5
+"knox, nebraska",121
+"lancaster, nebraska",1.4
+"richardson, nebraska",60
+"coos, new hampshire",99
+"grafton, new hampshire",48
+"sullivan, new hampshire",24
+"atlantic, new jersey",7.5
+"hudson, new jersey",0.1
+"chaves, new mexico",15
+"curry, new mexico",21.7
+"guadalupe, new mexico",90
+"lea, new mexico",27.3
+"luna, new mexico",50.4
+"quay, new mexico",285.5
+"roosevelt, new mexico",120
+"sandoval, new mexico",102.4
+"torrance, new mexico",100
+"white pine, nevada",150
+"clinton, new york",494
+"erie, new york",35
+"franklin, new york",106.5
+"herkimer, new york",74
+"lewis, new york",322
+"madison, new york",76
+"ontario, new york",3.4
+"steuben, new york",196.6
+"wyoming, new york",439.5
+"cuyahoga, ohio",3.5
+"logan, ohio",3.4
+"paulding, ohio",103.5
+"van wert, ohio",306.5
+"wood, ohio",7.2
+"caddo, oklahoma",299.8
+"canadian, oklahoma",298.5
+"comanche, oklahoma",225.3
+"custer, oklahoma",147
+"dewey, oklahoma",853.6
+"garfield, oklahoma",235.2
+"grady, oklahoma",200
+"harper, oklahoma",233.4
+"kay, oklahoma",59.8
+"kiowa, oklahoma",148.8
+"murray, oklahoma",150
+"osage, oklahoma",150.4
+"roger mills, oklahoma",453.1
+"texas, oklahoma",120
+"woodward, oklahoma",355
+"baker, oregon",3
+"gilliam, oregon",1494.5
+"morrow, oregon",115.1
+"sherman, oregon",1061.9
+"umatilla, oregon",382.2
+"union, oregon",100.7
+"blair, pennsylvania",156.2
+"cambria, pennsylvania",247.5
+"fayette, pennsylvania",50.4
+"lancaster, pennsylvania",3.2
+"luzerne, pennsylvania",24
+"lycoming, pennsylvania",69
+"schuylkill, pennsylvania",128
+"somerset, pennsylvania",358
+"tioga, pennsylvania",100.5
+"wayne, pennsylvania",64.5
+"wyoming, pennsylvania",142.6
+"newport, rhode island",1.5
+"providence, rhode island",0.8
+"washington, rhode island",1.5
+"bon homme, south dakota",80
+"brookings, south dakota",260.4
+"brule, south dakota",2.6
+"clark, south dakota",19.5
+"day, south dakota",99
+"hand, south dakota",25
+"hyde, south dakota",40.5
+"jerauld, south dakota",213
+"anderson, tennessee",29.1
+"archer, texas",217.6
+"baylor, texas",146
+"borden, texas",640
+"briscoe, texas",200
+"cameron, texas",401.6
+"carson, texas",860.9
+"cooke, texas",112.5
+"crosby, texas",309.8
+"culberson, texas",53.3
+"dawson, texas",211.2
+"deaf smith, texas",499.7
+"dickens, texas",150
+"ector, texas",152.5
+"erath, texas",60
+"fisher, texas",249
+"floyd, texas",57
+"glasscock, texas",329.7
+"hansford, texas",246.8
+"hartley, texas",4.2
+"howard, texas",357.5
+"hudspeth, texas",1.3
+"hutchinson, texas",20
+"jack, texas",380
+"kenedy, texas",873.8
+"kent, texas",30
+"kinney, texas",99.8
+"lubbock, texas",7.5
+"lynn, texas",61.2
+"martin, texas",120
+"mills, texas",150
+"mitchell, texas",150
+"moore, texas",99.5
+"nolan, texas",1941.4
+"nueces, texas",9
+"ochiltree, texas",249.9
+"oldham, texas",561.2
+"pecos, texas",700.5
+"roberts, texas",288.6
+"san patricio, texas",380.1
+"scurry, texas",473.5
+"shackelford, texas",562.3
+"sherman, texas",20
+"starr, texas",200
+"sterling, texas",1011.6
+"taylor, texas",970.1
+"tom green, texas",150
+"upton, texas",353
+"webb, texas",242
+"wilbarger, texas",135.4
+"willacy, texas",203
+"young, texas",225
+"beaver, utah",305.5
+"utah, utah",18.9
+"bennington, vermont",5.2
+"caledonia, vermont",40
+"chittenden, vermont",10
+"orleans, vermont",65
+"benton, washington",95
+"columbia, washington",634
+"garfield, washington",342.7
+"grays harbor, washington",6
+"kittitas, washington",467.6
+"klickitat, washington",1245.6
+"walla walla, washington",176.9
+"whitman, washington",105.3
+"brown, wisconsin",20.1
+"columbia, wisconsin",28
+"dodge, wisconsin",183
+"fond du lac, wisconsin",88.9
+"iowa, wisconsin",2
+"kewaunee, wisconsin",2
+"monroe, wisconsin",4.8
+"racine, wisconsin",3
+"barbour, west virginia",97.6
+"grant, west virginia",264
+"greenbrier, west virginia",100.5
+"mineral, west virginia",55.2
+"tucker, west virginia",66
+"albany, wyoming",154.1
+"carbon, wyoming",346.4
+"converse, wyoming",536
+"laramie, wyoming",71.4
+"natrona, wyoming",17
+"uinta, wyoming",285
