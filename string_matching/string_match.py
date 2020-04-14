@@ -31,18 +31,18 @@ population_near_wind = 0
 for county in counties_wind:
     ## figure out which county from the population list matches the county in question
     ## hint: check out process.extractOne(string, choices) in the fuzzywuzzy documentation: https://github.com/seatgeek/fuzzywuzzy
-    # matching_county = ???
+    matching_county = process.extractOne(county, counties_pop)
     ## print the match as we go along
     print('{} matched with {}'.format(county, matching_county))
     ## figure out the index of the county that we matched to. Hint: look up the index function (google "python index of value in list")
-    # index_of_matched_county = ???
-    # population_of_matched_county = ???
+    index_of_matched_county = counties_pop.index(matching_county[0])
+    population_of_matched_county = pop[index_of_matched_county]
     ## add the population from our matching county to our running total
-    # population_near_wind += ???
+    population_near_wind += population_of_matched_county
 
 
 total_population = sum(pop)
 print('The total population in 2015 that lived in a county with a wind turbine was {}. \
 This was {}% of the total population'.format(population_near_wind, round(population_near_wind/float(total_population)*100,1)))
 
-
+# Answer: The total population in 2015 that lived in a county with a wind turbine was 37573486. This was 11.8% of the total population
